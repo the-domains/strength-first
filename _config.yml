@@ -1,0 +1,28 @@
+name: Strength First
+favicon: null
+layout_spectrum: 0.8750309676397592
+typography_spectrum: 0.9285842347890139
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4228918426670134
+  lightness: 0.8193694602232426
+  saturation: 0.2935215402394533
+  rhythmicContrast: 0.35616326169110835
+purpose: []
